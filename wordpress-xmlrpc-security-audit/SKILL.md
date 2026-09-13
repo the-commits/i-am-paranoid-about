@@ -1,6 +1,6 @@
 ---
 
-name: web-xmlrpc-security-audit
+name: wordpress-xmlrpc-security-audit
 description: >
   Audits a web application's XML-RPC (or equivalent legacy remote-API) endpoint
   for common weakness classes (CWE-307, CWE-400, CWE-749, CWE-862, CWE-94, CWE-918).
