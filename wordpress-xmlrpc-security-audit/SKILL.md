@@ -4,8 +4,7 @@ name: wordpress-xmlrpc-security-audit
 description: >
   Audits a web application's XML-RPC (or equivalent legacy remote-API) endpoint
   for common weakness classes (CWE-307, CWE-400, CWE-749, CWE-862, CWE-94, CWE-918).
-  Applies and verifies hardening. Use when the user sets up or deploys a web app
-  (WordPress, Drupal, custom PHP, etc.), mentions xmlrpc.php or a legacy RPC
+  Applies and verifies hardening. Use when the user sets up or deploys a WordPress web app, mentions xmlrpc.php or a legacy RPC
   endpoint, asks for a security review, or when a CVE touching XML-RPC or
   unauthenticated/low-privilege remote execution surfaces.
 assets: ./assets/apache.md
